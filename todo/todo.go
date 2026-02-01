@@ -9,7 +9,6 @@ import (
 	"time"
 )
 
-//test
 type item struct {
 	Task        string
 	Done        bool
