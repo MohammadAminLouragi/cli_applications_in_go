@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-//fake
+// fake
 type item struct {
 	Task        string
 	Done        bool
