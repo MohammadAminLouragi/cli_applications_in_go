@@ -20,6 +20,7 @@ go build -o app wordCounter/...
 
 ## Run Project
 -l => count number of lines
+
 -b = count number of bytes
 ```bash
 echo "My first command line tool with go" | ./app.exe
