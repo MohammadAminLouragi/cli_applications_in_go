@@ -9,7 +9,6 @@ import (
 	"time"
 )
 
-// book
 type item struct {
 	Task        string
 	Done        bool
