@@ -16,7 +16,6 @@ type item struct {
 	CompletedAt time.Time
 }
 
-// structure
 type List []item
 
 func (l *List) Add(task string) {
